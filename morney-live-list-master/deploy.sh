@@ -6,7 +6,7 @@ set -e
 # build
 yarn build
 
-# navigate into the build output directory
+# navigate into the build output directorys
 cd dist
 
 # if you are deploying to a custom domain
