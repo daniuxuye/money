@@ -27,7 +27,7 @@ window.onload = function(){
 if(document.documentElement.clientWidth >500){
   window.alert('请使用手机打开本页面,以保障界面效果')
   const img = document.createElement('img');
-  img.src= '/123.png';
+  img.src= './photo.png';
   img.style.position='fixed'
   img.style.left = '50%';
   img.style.top = '50%';
